@@ -4,7 +4,6 @@ t = int(input())
 while t>0:
     s = input()
     st = ''
-    #s = list(s)
     l = len(s)
     i = 0
     while i<l:
